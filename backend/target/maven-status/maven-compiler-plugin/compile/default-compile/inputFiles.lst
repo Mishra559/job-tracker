@@ -1,0 +1,8 @@
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\controller\JobApplicationController.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\entity\JobApplication.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\exception\ResourceNotFoundException.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\dto\JobApplicationDto.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\repository\JobApplicationRepository.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\exception\GlobalExceptionHandler.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\JobTrackerApplication.java
+N:\Projects\job-tracker\job-tracker\backend\src\main\java\com\jobtracker\service\JobApplicationService.java
